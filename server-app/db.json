@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "1beb5b7f-6f4c-4731-a7e2-42b20803f40a",
+      "name": "Ankit kumar saini",
+      "email": "satyamk3589@gmail.com"
+    },
+    {
+      "id": "65b5356a-4ff6-4191-85aa-d78fddc687cd",
+      "name": "Ankit raj",
+      "email": "ankit@gmail.com"
+    },
+    {
+      "id": "e9177fca-5212-4f5f-9b7b-f84143953371",
+      "name": "Ankit",
+      "email": "styam@gmail.com"
+    },
+    {
+      "id": "c2a0748e-31d3-4545-9a58-7a1de4b3cc14",
+      "name": "Ankit kumar",
+      "email": "ankit@gmail.com"
+    }
+  ]
+}
